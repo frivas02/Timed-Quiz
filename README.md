@@ -1,1 +1,1 @@
-# Timed-Quiz
+# JavaScript Fundamentals Timed Quiz
